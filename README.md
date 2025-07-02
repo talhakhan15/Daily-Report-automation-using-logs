@@ -1,4 +1,6 @@
+# You can generate a JRE and then convert it to exe file using Launch4j
 # Daily Report Mailer - Selenium Automation Script
+
 
 This project automates the process of logging into Microsoft Outlook, composing a daily report email, and sending it with an attachment using Selenium WebDriver. The script is written in Java and uses Google Chrome for browser automation.
 
